@@ -26,8 +26,7 @@ This section will introduce how to run this plugin in your Chrome Browser.
 > $ sudo /Applications/XAMPP/xamppfiles/bin/mysql.server start
 ```
 and try agian.
-## Author
-Codes and this README are written by Sirui Li.
+
 
 
 
